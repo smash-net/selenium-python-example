@@ -36,8 +36,8 @@ To check the report, open the `/results/report.html` file once the execution has
 
 # Links
 
-[Selenium - Python Documentation](https://selenium-python.readthedocs.io/)
-[Learn X in Y Minutes - Python](https://learnxinyminutes.com/docs/python/)
-[Python Docs](https://docs.python.org/3/)
-[Webdriver Manager for Python](https://github.com/SergeyPirogov/webdriver_manager)
-[XPath Syntax](https://www.w3schools.com/xml/xpath_syntax.asp)
+- [Selenium - Python Documentation](https://selenium-python.readthedocs.io/)
+- [Learn X in Y Minutes - Python](https://learnxinyminutes.com/docs/python/)
+- [Python Docs](https://docs.python.org/3/)
+- [Webdriver Manager for Python](https://github.com/SergeyPirogov/webdriver_manager)
+- [XPath Syntax](https://www.w3schools.com/xml/xpath_syntax.asp)
